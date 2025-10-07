@@ -239,9 +239,3 @@ curl -s -X DELETE http://localhost:3000/api/users/1 \
 - 未集成迁移工具；当前由运行时创建数据表。
 
 ---
-
-### 许可证
-
-MIT
-
-
